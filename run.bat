@@ -1,0 +1,1 @@
+node index.js C:\Users\Cezary\AppData\Roaming\MetaQuotes\Terminal\6926E3EAFC22275149D180AD891EE167\MQL5\Files
